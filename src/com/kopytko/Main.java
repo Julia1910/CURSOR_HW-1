@@ -13,20 +13,20 @@ public class Main {
         System.out.println("b1 = " + b1 + ", b2 = " + b2);
         System.out.println("Addition: " + (b1 + b2));
         System.out.println("Subtraction: " + (b1 - b2) + " or " + (b2 - b1));
-        System.out.println("Multiplication: " + (byte) (b1 * b2));
-        System.out.println("Division: " + (byte) (b1 / b2) + " or " + (byte) (b1 / b2));
+        System.out.println("Multiplication: " + (b1 * b2));
+        System.out.println("Division: " + (b1 / b2) + " or " + (b1 / b2));
         System.out.println("----------------------");
         System.out.println();
 
         System.out.println("SHORT");
         System.out.println("____________________________");
         short s1 = -700;
-        short s2 = 400;
+        short s2 = 40;
         System.out.println("s1 = " + s1 + ", s2 = " + s2);
         System.out.println("Addition: " + (s1 + s2));
         System.out.println("Subtraction: " + (s1 - s2) + " or " + (s2 - s1));
-        System.out.println("Multiplication: " + (short) (s1 * s2));
-        System.out.println("Division: " + (short) (s1 / s2) + " or " + (short) (s2 / s1));
+        System.out.println("Multiplication: " + (s1 * s2));
+        System.out.println("Division: " + (s1 / s2) + " or " + (s2 / s1));
         System.out.println("----------------------------");
         System.out.println();
 
